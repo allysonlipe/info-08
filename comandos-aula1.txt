@@ -1,0 +1,9 @@
+git init - inicia o repositório local(git);
+git status - retorna o status do stage;
+git add . - adiciona arquivos ao stage;
+git rm --cached <arquivo> - remove arquivos do stage;
+stage -> espaço intermediário entre os arquivos e o commit.
+git commit -m "nome do commit" -> Cria Versão
+git restore -> volta o stage para uma versão já commitada.
+
+git push -> Envia os commits para o repositório remoto(github)
